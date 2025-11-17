@@ -12,7 +12,7 @@ Hey! I’m **Mohammed** 👋
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=F7D800)](https://github.com/hamood268)
 [![Discord](https://img.shields.io/badge/Discord-1A1A1A?style=for-the-badge&logo=discord&logoColor=F7D800)](https://discord.com/users/804230882693087242)
-[![X](https://img.shields.io/badge/X-FFD000?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/)
+[![X](https://img.shields.io/badge/X-FFD000?style=for-the-badge&logo=x&logoColor=000000)](https://x.com/ha268h)
 
 ---
 
